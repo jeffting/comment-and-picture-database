@@ -1,0 +1,61 @@
+nohup: ignoring input
+[0mGET / [32m200 [0m12.303 ms - 1061[0m
+[0mGET / [32m200 [0m2.813 ms - 1061[0m
+[0mGET /javascripts/app.js [32m200 [0m1.855 ms - 1124[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m218.106 ms - 1532[0m
+[0mGET /comments [36m304 [0m15.224 ms - -[0m
+[0mGET /favicon.ico [33m404 [0m37.415 ms - 1532[0m
+in Delete
+[0mDELETE /comments/58de960f77deb36f1d56586d [32m200 [0m8.410 ms - 162[0m
+[0mGET /comments [32m200 [0m5.574 ms - 2[0m
+[0mGET / [32m200 [0m20.833 ms - 1101[0m
+[0mGET /javascripts/app.js [36m304 [0m2.322 ms - -[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m50.043 ms - 1532[0m
+[0mGET /comments [36m304 [0m2.354 ms - -[0m
+[0mGET / [32m200 [0m1.854 ms - 1106[0m
+[0mGET /javascripts/app.js [36m304 [0m0.979 ms - -[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m48.119 ms - 1532[0m
+[0mGET /comments [36m304 [0m2.959 ms - -[0m
+{ title: 'asdf', upvotes: 0 }
+[0mPOST /comments [32m200 [0m30.516 ms - 69[0m
+in Delete
+[0mDELETE /comments/58e2a24c980972cc7307f6e0 [32m200 [0m6.432 ms - 69[0m
+[0mGET /comments [32m200 [0m6.527 ms - 71[0m
+[0mDELETE /comments/58e2a24c980972cc7307f6e0 [31m500 [0m30.524 ms - 697[0m
+[0mGET /comments [32m200 [0m29.582 ms - 2[0m
+[0mGET / [32m200 [0m2.437 ms - 1128[0m
+[0mGET /javascripts/app.js [36m304 [0m0.545 ms - -[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m47.590 ms - 1532[0m
+[0mGET /comments [36m304 [0m1.484 ms - -[0m
+{ title: 'hello',
+  upvotes: 0,
+  url: 'http://ec2-35-167-97-198.us-west-2.compute.amazonaws.com:3001/' }
+[0mPOST /comments [32m200 [0m3.076 ms - 141[0m
+[0mGET / [36m304 [0m0.563 ms - -[0m
+in Delete
+[0mDELETE /comments/58e2a28f980972cc7307f6e1 [32m200 [0m2.373 ms - 141[0m
+[0mGET /comments [32m200 [0m3.121 ms - 2[0m
+[0mGET / [36m304 [0m0.588 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m2.687 ms - -[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m11.400 ms - 1532[0m
+[0mGET /comments [36m304 [0m1.610 ms - -[0m
+[0mGET / [32m200 [0m5.659 ms - 1134[0m
+[0mGET /javascripts/app.js [36m304 [0m0.587 ms - -[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m15.486 ms - 1532[0m
+[0mGET /comments [36m304 [0m1.543 ms - -[0m
+[0mGET / [36m304 [0m0.994 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m1.005 ms - 1150[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m16.051 ms - 1532[0m
+[0mGET /comments [36m304 [0m1.563 ms - -[0m
+[0mGET /%7B%7Bcomment.url%7D%7D [33m404 [0m17.933 ms - 1532[0m
+{ title: 'hi',
+  upvotes: 0,
+  url: 'http://ec2-35-167-97-198.us-west-2.compute.amazonaws.com:3001/' }
+[0mPOST /comments [32m200 [0m2.432 ms - 138[0m
+[0mGET / [36m304 [0m0.476 ms - -[0m
+in Delete
+[0mDELETE /comments/58e2a2df980972cc7307f6e2 [32m200 [0m3.315 ms - 138[0m
+[0mGET /comments [32m200 [0m3.478 ms - 140[0m
+[0mGET / [36m304 [0m0.454 ms - -[0m
+[0mDELETE /comments/58e2a2df980972cc7307f6e2 [31m500 [0m20.216 ms - 697[0m
+[0mGET /comments [32m200 [0m20.419 ms - 2[0m
